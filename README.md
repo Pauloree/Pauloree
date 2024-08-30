@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,java,react,git,github,ps,html,,,,,,,css,dotnet&perline=13" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,java,git,github,html,css,dotnet&perline=13" />
   </a>
 </p>
 
@@ -21,7 +21,9 @@
 
 ### Contatos:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)]((https://www.instagram.com/Pauloree__/?utm_source=ig_web_button_share_sheet))
-[![Gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](mailto:joaopedrodasilva874@gmail.com)
+<a href="https://www.instagram.com/paulo.sif" target="blank"><img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="jose.august0_" height="30" width="40" /></a>
+
 
 
