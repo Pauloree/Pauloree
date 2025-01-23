@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenv.+de+Software+;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
-#### ⦿ Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul - Campus SM -São Paulo, SP.
+###  Tenho 10 anos e estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul - Campus SM -São Paulo, SP.
 
-#### ⦿ Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
+###  Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
 
 
 ### Tecnologias das quais utilizo:
