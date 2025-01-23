@@ -1,18 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenv.+de+Software+;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
-###  Tenho 10 anos e estou cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul - Campus SM -São Paulo, SP.
+###  Tenho 20 anos, cursei Análise e Desenvolvimento de Sistemas.
 
-###  Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
-
+###  Atualmente, estou trabalhando como Desenvolvedor de Sistemas na CPTM e cursando Desenvolvimento de Sistemas no SENAI.
 
 ### Tecnologias das quais utilizo:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,java,git,github,html,css,dotnet&perline=13" />
-  </a>
-</p>
-
-</div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="47" height="47" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="47" height="47" /></div>
 
 ### Estatísticas:
 
