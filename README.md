@@ -15,7 +15,11 @@
 
 ### Contatos:
 
+<i class="ci ci-linkedin ci-2x"></i>
 
 
 
-
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.8.0/src/app/ci.min.css"
+/>
