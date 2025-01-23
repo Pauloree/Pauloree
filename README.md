@@ -10,7 +10,8 @@
 ### Estatísticas:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pauloree&hide=contribs,prs)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloree&show_icons=true&theme=radical)
+
 
 ### Contatos:
 
