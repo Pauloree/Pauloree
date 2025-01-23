@@ -5,7 +5,7 @@
 
 ### Tecnologias das quais utilizo:
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="73" height="73" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="73" height="73" /></div>
+<img src="public/logos/css/css.svg" alt="CSS3 Icon"  height="48"> <img src="public/logos/nodejs/nodejs.svg" alt="Node.js Icon"  height="48"> <img src="public/logos/js/js.svg" alt="JavaScript Icon"  height="48"> <img src="public/logos/html/html.svg" alt="HTML5 Icon"  height="48"> <img src="public/logos/java/java.svg" alt="Java Icon"  height="48">
 
 ### Estatísticas:
 
@@ -15,7 +15,7 @@
 
 ### Contatos:
 
-<i class="ci ci-linkedin ci-2x"></i>
+[Linkedin]https://www.linkedin.com/in/paulo-renato-n-31558221a/
 
 
 
