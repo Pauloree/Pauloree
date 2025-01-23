@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Desenv.+de+Software+;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
-##  Tenho 20 anos, cursei Análise e Desenvolvimento de Sistemas.
+###  Tenho 20 anos, cursei Análise e Desenvolvimento de Sistemas.
 
-##  Atualmente, estou trabalhando como Desenvolvedor de Sistemas na CPTM e cursando Desenvolvimento de Sistemas no SENAI.
+###  Atualmente, estou trabalhando como Desenvolvedor de Sistemas na CPTM e cursando Desenvolvimento de Sistemas no SENAI.
+
+####  Sempre estou buscando aprender coisas novas e me aprofundar nas quais já utilizo, buscando as melhores soluções possíveis.
 
 ### Tecnologias das quais utilizo:
 
