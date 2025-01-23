@@ -5,8 +5,7 @@
 
 ### Tecnologias das quais utilizo:
 
-<img src="public/logos/css/css.svg" alt="CSS3 Icon"  height="48"> <img src="public/logos/nodejs/nodejs.svg" alt="Node.js Icon"  height="48"> <img src="public/logos/js/js.svg" alt="JavaScript Icon"  height="48"> <img src="public/logos/html/html.svg" alt="HTML5 Icon"  height="48"> <img src="public/logos/java/java.svg" alt="Java Icon"  height="48">
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sql,python,java,c#)](https://skillicons.dev)
 ### Estatísticas:
 
 
@@ -15,7 +14,7 @@
 
 ### Contatos:
 
-[Linkedin]https://www.linkedin.com/in/paulo-renato-n-31558221a/
+[Linkedin](https://www.linkedin.com/in/paulo-renato-n-31558221a/)
 
 
 
