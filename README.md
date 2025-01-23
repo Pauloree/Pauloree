@@ -10,7 +10,7 @@
 ### Estatísticas:
 
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloree&show_icons=true&theme=radical)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloree&show_icons=true&theme=dark)
 
 
 ### Contatos:
