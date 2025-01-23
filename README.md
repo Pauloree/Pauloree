@@ -10,7 +10,7 @@
 ### Estatísticas:
 
 
-![João Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Pauloree&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ### Contatos:
 
