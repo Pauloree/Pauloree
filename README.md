@@ -7,7 +7,7 @@
 
 ### Tecnologias das quais utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,python,java,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,mysql,python,java,c#)](https://skillicons.dev)
 ### Estatísticas:
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloree&show_icons=true&theme=dark)
